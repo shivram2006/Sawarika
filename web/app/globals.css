@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --color-ink: #1C1B29;
+  --color-cream: #F5F1E8;
+  --color-amber: #D97706;
+}
